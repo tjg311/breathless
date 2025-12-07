@@ -13,7 +13,7 @@ The global burden of disease attributable to air pollution is substantial, with 
 - **WHO Ambient Air Quality Database:** Annual mean PM2.5 concentrations.
 - **WHO Global Health Observatory:** Age-standardized death rates attributable to ambient air pollution.
 - **UN Data:** GDP, Population, Life Expectancy, Fertility Rates, Education Enrollment, and Energy Production.
-- **EPA Data:** U.S. specific air quality indices (used for regional validation).
+- **EPA Data:** U.S. specific air quality indices (used for regional validation and a reference point for air-quality standards).
 
 ### 2.2 Data Processing
 All datasets were ingested and cleaned using PySpark. Country names were harmonized across disparate sources using fuzzy matching and manual mapping. The final master dataset was constructed by joining these sources on `Country` and `Year` keys, resulting in a comprehensive panel dataset.
