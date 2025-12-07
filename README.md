@@ -64,5 +64,5 @@ The Random Forest's feature importance ranking consistently placed **PM2.5**, **
 *   **Health Outcomes:** Expanding the target variables to include morbidity (e.g., asthma incidence) rather than just mortality.
 *   **Policy Simulation:** Using the trained models to simulate the health benefits of specific policy interventions (e.g., reducing PM2.5 by 10%).
 
-## 7. Conclusion
+## 7. Project Conclusion
 Project Breathless underscores the urgent need for integrated policy approaches. Addressing air pollution requires not only environmental regulation but also sustained investment in economic development and public health infrastructure. The interplay between socioeconomic status, healthcare access, education, and health risk is too complex to be addressed with simple statistics. Our work addresses this with big data approaches.
