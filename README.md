@@ -35,7 +35,7 @@ Evaluation metrics included Root Mean Squared Error (RMSE), Mean Absolute Error 
 *   **Temporal Trends:** Globally, while average PM2.5 levels have shown a stabilizing or slightly declining trend in some regions, the attributable death rate remains persistently high in specific developing areas.
 
 ### 3.2 Model Performance
-The Random Forest model significantly outperformed linear approaches, highlighting the non-linear nature of the pollution-health relationship.
+The Random Forest model significantly outperformed linear approaches, highlighting the complex non-linear nature of the pollution-health relationship.
 
 | Model | RMSE | MAE | R² |
 | :--- | :--- | :--- | :--- |
