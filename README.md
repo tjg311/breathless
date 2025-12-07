@@ -65,4 +65,4 @@ The Random Forest's feature importance ranking consistently placed **PM2.5**, **
 *   **Policy Simulation:** Using the trained models to simulate the health benefits of specific policy interventions (e.g., reducing PM2.5 by 10%).
 
 ## 7. Conclusion
-Project Breathless underscores the urgent need for integrated policy approaches. Addressing air pollution requires not only environmental regulation but also sustained investment in economic development and public health infrastructure.
+Project Breathless underscores the urgent need for integrated policy approaches. Addressing air pollution requires not only environmental regulation but also sustained investment in economic development and public health infrastructure. Our project takes a big data approach to analyzing the complex web of variables that affect pollution mortality.
